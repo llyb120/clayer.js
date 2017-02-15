@@ -1,0 +1,2 @@
+# clayer.js
+lightweight layer
